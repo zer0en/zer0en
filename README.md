@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zer0en
 - 👀 I’m using git to learn about Code
-- 🌱 I’m currently learning powershell
-- 📫 check me out on: https://docs.microsoft.com/en-us/users/hanseneven
-
+- 🌱 I’m currently learning python using; learn python the hard way
+- 
 
 <!---
 zer0en/zer0en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
